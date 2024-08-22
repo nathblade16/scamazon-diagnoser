@@ -1,0 +1,2 @@
+# scamazon-diagnoser
+thing
